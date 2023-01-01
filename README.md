@@ -2,7 +2,7 @@
 
 ## About
 
-A handy language detector coded in Python, using the `Tkinter` module. 
+Happy New Year 2023 everyone! As my first repository of the year, here is a handy language detector coded in Python, using the `Tkinter` module. 
 
 TIP: Enter multiple words/phrases for a higher accuracy.
 
