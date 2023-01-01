@@ -13,3 +13,7 @@ TIP: Enter multiple words for a higher accuracy.
 - `iso-639` module
 
 These can be installed with `pip install langdetect` and `pip install iso-639`.
+
+## Implementation
+
+Run `python3 Language Detector.py` in a terminal if you have Python 3.
